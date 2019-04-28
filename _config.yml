@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "David"
 title_right   : "Emily" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
+description   : "Life of David"
 keywords      : "David Emily, Blog, C#, Developer"
 url           : https://davidemily.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
