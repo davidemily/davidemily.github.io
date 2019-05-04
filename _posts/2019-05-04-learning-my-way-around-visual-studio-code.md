@@ -8,9 +8,7 @@ tools as those found on purchased software like Visual Studio, XCode, and Intell
 This leads to Visual Studio Code. Initially released in 2015, the free software is based on the Electron framework, giving it 
 cross-platform usability. VSCode supports debugging, Git, syntax control and intelligent code completion; in addition to it 
 supporting Javascript and Typescript out of the box, with the ability to download extensions for everything from C to Rust and even Swift.
-Since being released, it has quickly been adopted by the community. In 2016 it was used by only 7% of the [community](https://insights.stackoverflow.com/survey/2016)
-but has grown to 34.9% in [2018](https://insights.stackoverflow.com/survey/2018). That's right, the usage of the editor has grown at
-a rate of almost 400% in a short 2 years.  
+Since being released, it has quickly been adopted by the community. In [2016](https://insights.stackoverflow.com/survey/2016) it was used by only 7% of the community but has grown to 34.9% in [2018](https://insights.stackoverflow.com/survey/2018). That's right, the usage of the editor has grown at a rate of almost 400% in a short 2 years.  
 
 Why? The software is so snappy and so easy to use. Even with a subscription to use Visual Studio (thank you Veterans United),
 I still find myself using Visual Studio Code to work on projects at home on my personal laptop. In fact, I only truly enjoy using
