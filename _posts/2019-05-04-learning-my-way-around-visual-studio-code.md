@@ -24,4 +24,6 @@ markdown page. The multi-line cursor was a huge help in lining up all of the tab
 having no reason to remove my hands from the keyboard, something I haven't experienced since I became good at using Vim shortcuts. I definitely plan on continuing to use VSCode on my personal laptop and for my projects I do in my free time (I'm currently typing
 this in VSCode).  
 
-If you're interested in learning some VSCode shortcuts, or just want a handy to use guide, please follow this [link](https://github.com/davidemily/VSCodeShortcuts).
+If you're interested in learning some VSCode shortcuts, or just want a handy to use guide, please follow this [link](https://github.com/davidemily/VSCodeShortcuts).  
+Click [here](https://code.visualstudio.com/) if you're interested in downloading [VSCODE](https://code.visualstudio.com/) and
+[here](https://github.com/Microsoft/vscode) if you're interested in looking at the associated [GitHub](https://www.github.com) page.
