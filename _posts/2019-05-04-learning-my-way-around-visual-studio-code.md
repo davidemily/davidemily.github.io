@@ -23,5 +23,7 @@ having no reason to remove my hands from the keyboard, something I haven't exper
 this in VSCode).  
 
 If you're interested in learning some VSCode shortcuts, or just want a handy to use guide, please follow this [link](https://github.com/davidemily/VSCodeShortcuts).  
-Click [here](https://code.visualstudio.com/) if you're interested in downloading [VSCODE](https://code.visualstudio.com/) and
-[here](https://github.com/Microsoft/vscode) if you're interested in looking at the associated [GitHub](https://www.github.com) page.
+
+Click [here](https://code.visualstudio.com/) if you're interested in downloading [VSCODE](https://code.visualstudio.com/).  
+
+Click [here](https://github.com/Microsoft/vscode) if you're interested in looking at the associated [GitHub](https://www.github.com) page.
