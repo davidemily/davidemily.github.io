@@ -12,6 +12,6 @@ These commands will use Git to clone the repository stored on GitHub and use Git
 ```
 git add davidemily.github.io/
 git commit -m "adding new post to my website!"
-git push master
+git push origin master
 ```  
 It's amazing to see the advancement in technology from the days of Geocities to what we have know for web hosting. While the idea of it is the same, the tools we have now give us a much quicker feedback and take away many of the headaches that I had has a kid, keeping my website up to date and looking presentable.
