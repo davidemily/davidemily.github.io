@@ -1,4 +1,4 @@
-#Update Blog Using Git
+# Update Blog Using Git
 
 Writing a blog has certainly advanced a lot over the years. My first experience in dealing with a blog was way back when [Geocities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) was still a thing. The process of updating a Geocities website required knowing enough HTML to know where to update your thoughts and enough CSS to make what you wanted to say readable. While I'm sure there were helpful tools, I typically updated everything in a .txt document using Notepad and then copied and pasted that information into the field box, before mashing F5 to check if my new update broke everything. If my changes did break it, I would then undo back to the previous version and try again; or if my undo didn't work, open one of the many previous versions I had saved on my computer desktop.  
 
