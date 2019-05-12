@@ -12,7 +12,8 @@ atom davidemily.github.io
 ```
 These commands will use Git to clone the repository stored on GitHub and use GitHub's Atom edit to open the folder. After creating the post, you can use the same terminal window to commit and push your changes back up to the repository on GitHub. Doing it this way will help you leverage the usefulness of the Atom editor and the source control Git provides. It also means that your files on your local machine and on GitHub will stay up-to-date with each other.  
 ```
+git add davidemily.github.io/
 git commit -m "adding new post to my website!"
 git push master
 ```  
-It's amazing to see the advancement in technology from the days of Geocities to what we have know for web hosting. While the idea of it is the same, the tools we have now give us a much quicker feedback and take away many of the headaches that I had has a kid, keeping my website up to date and looking presentable. 
+It's amazing to see the advancement in technology from the days of Geocities to what we have know for web hosting. While the idea of it is the same, the tools we have now give us a much quicker feedback and take away many of the headaches that I had has a kid, keeping my website up to date and looking presentable.
