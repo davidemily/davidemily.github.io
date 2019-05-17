@@ -6,7 +6,7 @@ If you follow my first post, you'll have a folder in GitHub with the name of you
 ```
 git init
 git clone https://github.com/davidemily/davidemily.github.io.git
-atom davidemily.github.io
+code davidemily.github.io
 ```
 These commands will use Git to clone the repository stored on GitHub and use GitHub's Atom edit to open the folder. After creating the post, you can use the same terminal window to commit and push your changes back up to the repository on GitHub. Doing it this way will help you leverage the usefulness of the Atom editor and the source control Git provides. It also means that your files on your local machine and on GitHub will stay up-to-date with each other.  
 ```
