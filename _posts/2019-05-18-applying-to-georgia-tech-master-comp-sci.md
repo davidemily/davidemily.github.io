@@ -12,7 +12,7 @@ I've decided to apply for the Spring 2020 semester and currently planning on tak
 
 Given my submittance of the application on May 18th, I'm not planning on hearing back for awhile. If the deadline is July 1st, I imagine there's not rush on going through the applications till then. While this gives me a lot of time to think about how I should have improved my application, it's also freeing to not think about my essays or application. 
 
-I wanted to add my essays for others to look at, in case they needed ideas. I wish I would have spent more time to proofread these. I had many opportunities to ask friends for assistance in reading over them but hopefully Georgia Tech Admissions will be able to read my honesty from these.
+I wanted to add my essays for others to look at, in case they needed ideas. I wish I would have spent more time to proofread these. I had many opportunities to ask friends for assistance in reading over them but hopefully Georgia Tech Admissions will be able to read my honesty from these. We'll see if the program is in the cards or not. Even if I'm not chosen, I plan to apply again at a later date. Maybe spend more time writing my thoughts out for the essays and earn some more experience in development.
 
 
 #### Please describe your background(academic and extracurricular) and experience, including research, teaching, industry, and other relevant information. Your space is limited to 2000 characters.  
@@ -25,7 +25,6 @@ It was at university that I found out the classes barely covered system administ
 My last summer in school, I was lucky enough to find a software development internship at Veterans United Home Loans. I enjoyed the work environment, and the mission of putting veterans into homes, but even more I love the fact that my job is using programming to solve problems.  
 
 I’ve beenable to use my old experiences as a system administrator by writing PowerShell scripts to improve efficiency and I’ve been able to learn all new skills with APIs and databases as a back-end developer. On a team of four, we help automate much of the home loan process, creating web applications that internal costumers use every day.  
----  
 
 #### Please give a Statement of Purpose detailing your academic and research goals as well as career plans. Include your reasons for choosing the College of Computing as opposed to other programs and/or other universities. Your space is limited to 4000 characters.  
 
@@ -40,6 +39,3 @@ Secondly, I chose Georgia Tech particularly for the Computing Systems specializa
 Lastly, the price is a huge draw to the program. The cost of the entire program is a fraction of that of a single year at other top programs. While I plan on covering the costs of the program with the portion of my GI Bill left over, the low cost allows me to worry more about absorbing the materials and less about how to best pay for the education.  
 
 In conclusion, I believe the Georgia Tech Online Master of Science in Computer Science is the best choice. The ability to attend a top rank school wherever I am, combined with a large collection of classes, at a reasonable price, are features that no other school can currently match. It is for these reasons, and many more, I have chosen to only apply to the GT OMSCS program.
----  
-
-We'll see if the program is in the cards or not. Even if I'm not chosen, I plan to apply again at a later date. Maybe spend more time writing my thoughts out for the essays and earn some more experience in development.
