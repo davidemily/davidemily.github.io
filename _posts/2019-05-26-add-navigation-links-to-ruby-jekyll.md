@@ -1,6 +1,5 @@
-# Adding Links
+# Adding Navigation Links
 
-### Navigation Links
 While the Ruby Jekyll websites templates are really useful and include functionality and custom options, sometimes you may want more. I found that instead of wanting to use the existing options to add my Twitter, I was more interested in linking my LinkedIn and GitHub. Luckily these are easy to add as links in the Navigation section.  
 
 First follow the file structure from base folder > _includes > nav.html. In here you should find a list, noted by: 
