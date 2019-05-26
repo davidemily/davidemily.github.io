@@ -7,7 +7,8 @@ First follow the file structure from base folder > _includes > nav.html. In here
 ```
     <ul class="navbar">
       <li><a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">About Me</a></li>
-       <li><a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" target="_blank">RSS</a></li>
+      <li><a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" target="_blank">RSS</a></li>
+    </ul>
 ```  
 This is the code that projects the About Me and RSS links in the Navigation Bar. The way you add additional navigation links depends if the website you are linking is stored in the same folder or if it is a website hosted somewhere else.  
 
