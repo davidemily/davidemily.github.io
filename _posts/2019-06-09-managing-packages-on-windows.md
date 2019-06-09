@@ -1,17 +1,17 @@
 # Package Managers  
 As a long time Linux user, the thing that still bothers me about both mainstream Operating Systems (MacOS and Windows) is the lack of solid package managers. For those unsure of what I'm talking about, a package manager is a program that keeps track of what other programs are installed and where releases for those can be found. So if you're on a Ubuntu machine, doing a ```sudo apt-get update && apt-get upgrade``` will find all of the current programs being tracked by the package manager and update them to the most current version. It's been a constant issue for me, as a new Windows user, to remember to update my software and to remember where it is located. Luckily, I've just recently found Chocolatey and it's made Windows feel a little more like home.  
-
+  
 #### What is Chocolatey?  
 [Chocolatey](https://github.com/chocolatey/choco) is an open source package manager for Windows. Much like Homebrew for Mac, Chocolatey is a delightful command line package manager that has been released for Windows. While it is not officially supported by Windows, it has a long history (since [2011](https://chocolatey.org/docs/why)) of filling the need in keeping programs up to date. It requires Windows 7+(Windows Server 2003), PowerShell 2.0+, and .NET Framework 4.0+ to run. Chocolatey does have a [paid service](https://chocolatey.org/pricing) which includes really cool options like private package sources, package download throttle, and many more resources.  
-
+    
 Using it has been a dream. At this time, it does have a graphical user interface that you can download, but I haven't found the need since using it's command-line interface is easy and intuitive. The hardest part of using this amazing tool is just remembering to run PowerShell in administrative role as it lacks the ability to switch to admin role mid PowerShell -- no Linux `sudo` here :(  
-
+  
 The software is easy to set up as well and can be downloaded from the homepage [here](https://chocolatey.org/). While the website contains all of the instructions needed to set it up, you'll mostly just need to run the installation software, find the programs you want on Chocolatey's [gallery](https://chocolatey.org/packages), and follow the instructions for that package.  
-
+  
 Keeping your packages up to date is also easy. By running ```choco upgrade all -y```, Chocolatey will run through all of the packages it is managing and install the newest version from the repository. Although it's easy to add existing programs to Chocolatey, I ended up just reloading Windows on my laptop so I could add all of my commonly used programs (and remove all of the existing [Windows bloatware](https://github.com/davidemily/DebloatWindows10)) to it.  
-
+  
 #### Alternatives  
 Like all good software, and popstars, there's a couple alternatives that try to mimic the success. Specifically for the Window's environment, this alternative is [Ninite](https://ninite.com/) and the default Windows Store that comes installed with Windows 10.  Ninite has a very intuitive website to use and many of the commonly found installs. My only complaint with Ninite is that a paid version of the software is required to keep those programs up to date. Windows Store on the other hand has been a constant pain since I first tried to use it. The GUI is overly busy and it is loaded with advertisements for software I don't want to use.  
-
+  
 #### Conclusion
 Package managers make keeping track of software a breeze. Never again will you need to maintain a .txt document of where downloads can be found or combing through 'About' links checking if your software is on the newest version.
